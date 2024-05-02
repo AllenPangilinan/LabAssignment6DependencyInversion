@@ -11,3 +11,5 @@ Your solution should not violate other SOLID principles.
 Create a repository in your GitHub account. Put your solution there. In the readMe file must include the problem statement, UML Class Diagram of Proposed solution.
 
 Make sure you have a TestProgram that will validate the proposed refactored codes.
+
+![Lab Assignment 6 Dependency Inversion](https://github.com/AllenPangilinan/LabAssignment6DependencyInversion/assets/152823579/5084356f-7026-40c3-b18d-32c7bc18af64)
